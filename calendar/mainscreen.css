@@ -1,0 +1,205 @@
+body {
+  margin: 0px;
+}
+h1 {
+  font-family: Arial;
+  font-weight: lighter;
+  width: 1520px;
+  height: 40px;
+  margin: 0%;
+  padding-left: 80px;
+  padding-top: 20px;
+  font-size: 30px;
+  background-color: #ffe7b9;
+}
+h2 {
+  font-family: Arial;
+  font-size: 42px;
+  font-weight: normal;
+  margin: 0%;
+  width: 1530px;
+  height: 80px;
+  padding-left: 70px;
+  background-color: #ffe7b9;
+}
+img {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  right: 65px;
+  top: 0px;
+  background-color: #ffe7b9;
+  padding-top: 20px;
+  margin: 0%;
+}
+
+table,
+th,
+td {
+  border: 0.5px solid black;
+  border-collapse: collapse;
+  font-family: Arial;
+  width: 228.57px;
+}
+
+th {
+  background-color: #ffe7b9;
+  text-align: center;
+  border-top-color: #ffe7b9;
+}
+
+tr:nth-child(even) {
+  background-color: #fff7e3;
+}
+
+tr:nth-child(odd) {
+  background-color: #fffcf2;
+}
+
+.previous_page {
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  left: 20px;
+  top: 35px;
+}
+
+.next_page {
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  right: 20px;
+  top: 35px;
+}
+
+.previous_page_button {
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  left: 20px;
+  top: 55px;
+  background-color: transparent;
+  border-color: transparent;
+}
+
+.next_page_button {
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  right: 20px;
+  top: 55px;
+  background-color: transparent;
+  border-color: transparent;
+}
+
+.Lohri {
+  position: absolute;
+  top: 385px;
+  left: 687px;
+  width: 215px;
+  border-radius: 5px;
+  border-color: transparent;
+  background-color: #ffd15c;
+  font-weight: bolder;
+}
+.Lohri:hover {
+  background-color: #f8d89d;
+}
+
+.Maha_Shivaratri {
+  position: absolute;
+  top: 565px;
+  left: 229px;
+  width: 215px;
+  border-radius: 5px;
+  border-color: transparent;
+  background-color: #ffd15c;
+  font-weight: bolder;
+}
+.Maha_Shivaratri:hover {
+  background-color: #f8d89d;
+}
+
+.Maha_Shivaratri_2 {
+  position: absolute;
+  top: 205px;
+  left: 229px;
+  width: 215px;
+  border-radius: 5px;
+  border-color: transparent;
+  background-color: #ffd15c;
+  font-weight: bolder;
+}
+.Maha_Shivaratri_2:hover {
+  background-color: #f8d89d;
+}
+
+.Holi {
+  position: absolute;
+  top: 385px;
+  left: 915px;
+  width: 215px;
+  border-radius: 5px;
+  border-color: transparent;
+  background-color: #ffd15c;
+  font-weight: bolder;
+}
+.Holi:hover {
+  background-color: #f8d89d;
+}
+
+.Rama_Navami {
+  position: absolute;
+  top: 295px;
+  left: 1372px;
+  width: 215px;
+  border-radius: 5px;
+  border-color: transparent;
+  background-color: #ffd15c;
+  font-weight: bolder;
+}
+
+.Rama_Navami:hover {
+  background-color: #f8d89d;
+}
+
+.Raksha_bandhan {
+  position: absolute;
+  top: 295px;
+  left: 687px;
+  width: 215px;
+  border-radius: 5px;
+  border-color: transparent;
+  background-color: #ffd15c;
+  font-weight: bolder;
+}
+.Raksha_bandhan:hover {
+  background-color: #f8d89d;
+}
+.Diwali {
+  position: absolute;
+  top: 564px;
+  left: 1px;
+  width: 215px;
+  border-radius: 5px;
+  border-color: transparent;
+  background-color: #ffd15c;
+  font-weight: bolder;
+}
+.Diwali:hover {
+  background-color: #f8d89d;
+}
+
+.Karwa_chauth {
+  position: absolute;
+  top: 385px;
+  left: 687px;
+  width: 215px;
+  border-radius: 5px;
+  border-color: transparent;
+  background-color: #ffd15c;
+  font-weight: bolder;
+}
+.Karwa_chauth:hover {
+  background-color: #f8d89d;
+}

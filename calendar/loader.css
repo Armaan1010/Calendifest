@@ -1,0 +1,51 @@
+body {
+  background-color: #fff7e3;
+}
+
+h1 {
+  position: absolute;
+  width: 261px;
+  height: 91px;
+  left: 730px;
+  top: 280px;
+
+  font-family: "Arial";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 44px;
+  line-height: 44px;
+  color: #fac314;
+  text-transform: uppercase;
+}
+
+img {
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  top: 230px;
+  left: 520px;
+}
+
+.loading {
+  display: flex;
+  position: absolute;
+  left: 760px;
+  top: 500px;
+  align-items: center;
+}
+
+.loading::after {
+  content: "";
+  width: 44px;
+  height: 44px;
+  border: 7px solid #f1ebd1;
+  border-top-color: #fac314;
+  border-radius: 50%;
+  animation: loading 1.25s ease infinite;
+}
+
+@keyframes loading {
+  to {
+    transform: rotate(1turn);
+  }
+}

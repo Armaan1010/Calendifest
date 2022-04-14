@@ -1,0 +1,1212 @@
+body {
+  margin: 0%;
+  background-color: #fffcf2;
+}
+
+.festival {
+  margin: 0px;
+  font-family: Arial;
+  background-color: #ffe7b9;
+  width: 1479px;
+  height: 100px;
+  padding-top: 40px;
+  padding-left: 100px;
+  font-size: 42px;
+  font-weight: normal;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
+.back_arrow {
+  position: absolute;
+  width: 30px;
+  top: 45px;
+  left: 30px;
+}
+.logo {
+  position: absolute;
+  right: 45px;
+  top: 20px;
+  width: 100px;
+  height: 100px;
+}
+
+.button_back {
+  position: absolute;
+  width: 30px;
+  top: 45px;
+  left: 30px;
+  height: 40px;
+  background-color: transparent;
+  border-color: transparent;
+  cursor: pointer;
+}
+
+/*Lohri*/
+
+.item_1 {
+  position: absolute;
+  left: 80px;
+  top: 190px;
+  font-size: 26px;
+  font-family: arial;
+  background-color: #ffebb8;
+  width: 340px;
+  height: 250px;
+  padding-left: 33px;
+  padding-top: 10px;
+  border-radius: 10px;
+}
+
+.dry_coconut {
+  position: absolute;
+  left: 116px;
+  top: 275px;
+  border-radius: 10px;
+  width: 300px;
+  height: 180px;
+}
+
+.item_2 {
+  position: absolute;
+  left: 610px;
+  top: 190px;
+  font-size: 26px;
+  font-family: arial;
+  background-color: #ffebb8;
+  width: 300px;
+  height: 250px;
+  padding-left: 73px;
+  padding-top: 10px;
+  border-radius: 10px;
+}
+
+.fruits {
+  position: absolute;
+  left: 647px;
+  top: 275px;
+  border-radius: 10px;
+  width: 300px;
+  height: 180px;
+}
+
+.item_3 {
+  position: absolute;
+  left: 1120px;
+  top: 190px;
+  font-size: 26px;
+  font-family: arial;
+  background-color: #ffebb8;
+  width: 320px;
+  height: 250px;
+  padding-left: 50px;
+  padding-top: 10px;
+  border-radius: 10px;
+}
+.dry_fruits {
+  position: absolute;
+  left: 1156px;
+  top: 275px;
+  border-radius: 10px;
+  width: 300px;
+  height: 180px;
+}
+
+.item_4 {
+  position: absolute;
+  left: 610px;
+  top: 500px;
+  font-size: 26px;
+  font-family: arial;
+  background-color: #ffebb8;
+  width: 325px;
+  height: 250px;
+  padding-left: 50px;
+  padding-top: 10px;
+  border-radius: 10px;
+}
+.peanuts {
+  position: absolute;
+  left: 647px;
+  top: 584px;
+  border-radius: 10px;
+  width: 300px;
+  height: 180px;
+}
+
+.item_5 {
+  position: absolute;
+  left: 80px;
+  top: 500px;
+  font-size: 26px;
+  font-family: arial;
+  background-color: #ffebb8;
+  width: 356px;
+  height: 250px;
+  padding-left: 18px;
+  padding-top: 10px;
+  border-radius: 10px;
+}
+.sesame {
+  position: absolute;
+  left: 116px;
+  top: 584px;
+  border-radius: 10px;
+  width: 300px;
+  height: 180px;
+}
+
+.item_6 {
+  position: absolute;
+  left: 1120px;
+  top: 500px;
+  font-size: 26px;
+  font-family: arial;
+  background-color: #ffebb8;
+  width: 320px;
+  height: 250px;
+  padding-left: 50px;
+  padding-top: 10px;
+  border-radius: 10px;
+}
+.camphor {
+  position: absolute;
+  left: 1156px;
+  top: 584px;
+  border-radius: 10px;
+  width: 300px;
+  height: 180px;
+}
+
+.item_7 {
+  position: absolute;
+  left: 80px;
+  top: 815px;
+  font-size: 26px;
+  font-family: arial;
+  background-color: #ffebb8;
+  width: 308px;
+  height: 250px;
+  padding-left: 68px;
+  padding-top: 10px;
+  border-radius: 10px;
+}
+.mustard {
+  position: absolute;
+  left: 116px;
+  top: 900px;
+  border-radius: 10px;
+  width: 300px;
+  height: 180px;
+}
+
+/*Maha shivratri*/
+
+.item_8 {
+  position: absolute;
+  left: 80px;
+  top: 190px;
+  font-size: 26px;
+  font-family: arial;
+  background-color: #ffebb8;
+  width: 310px;
+  height: 250px;
+  padding-left: 63px;
+  padding-top: 10px;
+  border-radius: 10px;
+}
+.milk {
+  position: absolute;
+  left: 116px;
+  top: 275px;
+  border-radius: 10px;
+  width: 300px;
+  height: 180px;
+}
+
+.item_9 {
+  position: absolute;
+  left: 610px;
+  top: 190px;
+  font-size: 26px;
+  font-family: arial;
+  background-color: #ffebb8;
+  width: 290px;
+  height: 250px;
+  padding-left: 83px;
+  padding-top: 10px;
+  border-radius: 10px;
+}
+.Rice {
+  position: absolute;
+  left: 647px;
+  top: 275px;
+  border-radius: 10px;
+  width: 300px;
+  height: 180px;
+}
+
+.item_10 {
+  position: absolute;
+  left: 1120px;
+  top: 190px;
+  font-size: 26px;
+  font-family: arial;
+  background-color: #ffebb8;
+  width: 300px;
+  height: 250px;
+  padding-left: 70px;
+  padding-top: 10px;
+  border-radius: 10px;
+}
+.sugar {
+  position: absolute;
+  left: 1156px;
+  top: 275px;
+  border-radius: 10px;
+  width: 300px;
+  height: 180px;
+}
+
+.item_11 {
+  position: absolute;
+  left: 610px;
+  top: 500px;
+  font-size: 26px;
+  font-family: arial;
+  background-color: #ffebb8;
+  width: 275px;
+  height: 250px;
+  padding-left: 100px;
+  padding-top: 10px;
+  border-radius: 10px;
+}
+.honey {
+  position: absolute;
+  left: 647px;
+  top: 584px;
+  border-radius: 10px;
+  width: 300px;
+  height: 180px;
+}
+
+.item_12 {
+  position: absolute;
+  left: 80px;
+  top: 500px;
+  font-size: 26px;
+  font-family: arial;
+  background-color: #ffebb8;
+  width: 270px;
+  height: 250px;
+  padding-left: 106px;
+  padding-top: 10px;
+  border-radius: 10px;
+}
+.fruit {
+  position: absolute;
+  left: 116px;
+  top: 584px;
+  border-radius: 10px;
+  width: 300px;
+  height: 180px;
+}
+
+.item_13 {
+  position: absolute;
+  left: 1120px;
+  top: 500px;
+  font-size: 26px;
+  font-family: arial;
+  background-color: #ffebb8;
+  width: 270px;
+  height: 250px;
+  padding-left: 100px;
+  padding-top: 10px;
+  border-radius: 10px;
+}
+.sandal {
+  position: absolute;
+  left: 1156px;
+  top: 584px;
+  border-radius: 10px;
+  width: 300px;
+  height: 180px;
+}
+
+.item_14 {
+  position: absolute;
+  left: 80px;
+  top: 815px;
+  font-size: 26px;
+  font-family: arial;
+  background-color: #ffebb8;
+  width: 288px;
+  height: 250px;
+  padding-left: 88px;
+  padding-top: 10px;
+  border-radius: 10px;
+}
+.sweet {
+  position: absolute;
+  left: 116px;
+  top: 900px;
+  border-radius: 10px;
+  width: 300px;
+  height: 180px;
+}
+
+/*Holi*/
+
+.item_15 {
+  position: absolute;
+  left: 80px;
+  top: 190px;
+  font-size: 26px;
+  font-family: arial;
+  background-color: #ffebb8;
+  width: 330px;
+  height: 250px;
+  padding-left: 43px;
+  padding-top: 10px;
+  border-radius: 10px;
+}
+
+.item_16 {
+  position: absolute;
+  left: 610px;
+  top: 190px;
+  font-size: 26px;
+  font-family: arial;
+  background-color: #ffebb8;
+  width: 310px;
+  height: 250px;
+  padding-left: 63px;
+  padding-top: 10px;
+  border-radius: 10px;
+}
+
+.item_17 {
+  position: absolute;
+  left: 1120px;
+  top: 190px;
+  font-size: 26px;
+  font-family: arial;
+  background-color: #ffebb8;
+  width: 250px;
+  height: 250px;
+  padding-left: 120px;
+  padding-top: 10px;
+  border-radius: 10px;
+}
+
+.item_18 {
+  position: absolute;
+  left: 610px;
+  top: 500px;
+  font-size: 26px;
+  font-family: arial;
+  background-color: #ffebb8;
+  width: 275px;
+  height: 250px;
+  padding-left: 100px;
+  padding-top: 10px;
+  border-radius: 10px;
+}
+
+.item_19 {
+  position: absolute;
+  left: 80px;
+  top: 500px;
+  font-size: 26px;
+  font-family: arial;
+  background-color: #ffebb8;
+  width: 276px;
+  height: 250px;
+  padding-left: 98px;
+  padding-top: 10px;
+  border-radius: 10px;
+}
+
+.item_20 {
+  position: absolute;
+  left: 1120px;
+  top: 500px;
+  font-size: 26px;
+  font-family: arial;
+  background-color: #ffebb8;
+  width: 280px;
+  height: 250px;
+  padding-left: 90px;
+  padding-top: 10px;
+  border-radius: 10px;
+}
+
+.cow {
+  position: absolute;
+  left: 116px;
+  top: 275px;
+  border-radius: 10px;
+  width: 300px;
+  height: 180px;
+}
+
+.cotton {
+  position: absolute;
+  left: 647px;
+  top: 275px;
+  border-radius: 10px;
+  width: 300px;
+  height: 180px;
+}
+
+.termeric {
+  position: absolute;
+  left: 1156px;
+  top: 275px;
+  border-radius: 10px;
+  width: 300px;
+  height: 180px;
+}
+
+.batashe {
+  position: absolute;
+  left: 116px;
+  top: 584px;
+  border-radius: 10px;
+  width: 300px;
+  height: 180px;
+}
+
+.moong {
+  position: absolute;
+  left: 647px;
+  top: 584px;
+  border-radius: 10px;
+  width: 300px;
+  height: 180px;
+}
+
+.grains {
+  position: absolute;
+  left: 1156px;
+  top: 584px;
+  border-radius: 10px;
+  width: 300px;
+  height: 180px;
+}
+
+/*ramanavmi*/
+
+.item_21 {
+  position: absolute;
+  left: 80px;
+  top: 190px;
+  font-size: 26px;
+  font-family: arial;
+  background-color: #ffebb8;
+  width: 280px;
+  height: 250px;
+  padding-left: 93px;
+  padding-top: 10px;
+  border-radius: 10px;
+}
+
+.item_22 {
+  position: absolute;
+  left: 610px;
+  top: 190px;
+  font-size: 26px;
+  font-family: arial;
+  background-color: #ffebb8;
+  width: 276px;
+  height: 250px;
+  padding-left: 98px;
+  padding-top: 10px;
+  border-radius: 10px;
+}
+
+.item_23 {
+  position: absolute;
+  left: 1120px;
+  top: 190px;
+  font-size: 26px;
+  font-family: arial;
+  background-color: #ffebb8;
+  width: 328px;
+  height: 250px;
+  padding-left: 40px;
+  padding-top: 10px;
+  border-radius: 10px;
+}
+
+.item_24 {
+  position: absolute;
+  left: 610px;
+  top: 500px;
+  font-size: 26px;
+  font-family: arial;
+  background-color: #ffebb8;
+  width: 245px;
+  height: 250px;
+  padding-left: 130px;
+  padding-top: 10px;
+  border-radius: 10px;
+}
+
+.item_25 {
+  position: absolute;
+  left: 80px;
+  top: 500px;
+  font-size: 26px;
+  font-family: arial;
+  background-color: #ffebb8;
+  width: 262px;
+  height: 250px;
+  padding-left: 112px;
+  padding-top: 10px;
+  border-radius: 10px;
+}
+
+.item_26 {
+  position: absolute;
+  left: 1120px;
+  top: 500px;
+  font-size: 26px;
+  font-family: arial;
+  background-color: #ffebb8;
+  width: 240px;
+  height: 250px;
+  padding-left: 130px;
+  padding-top: 10px;
+  border-radius: 10px;
+}
+.item_27 {
+  position: absolute;
+  left: 80px;
+  top: 815px;
+  font-size: 26px;
+  font-family: arial;
+  background-color: #ffebb8;
+  width: 268px;
+  height: 250px;
+  padding-left: 108px;
+  padding-top: 10px;
+  border-radius: 10px;
+}
+
+.item_28 {
+  position: absolute;
+  left: 610px;
+  top: 815px;
+  font-size: 26px;
+  font-family: arial;
+  background-color: #ffebb8;
+  width: 258px;
+  height: 250px;
+  padding-left: 118px;
+  padding-top: 10px;
+  border-radius: 10px;
+}
+
+.sandalwood {
+  position: absolute;
+  left: 116px;
+  top: 275px;
+  border-radius: 10px;
+  width: 300px;
+  height: 180px;
+}
+
+.turmericc {
+  position: absolute;
+  left: 647px;
+  top: 275px;
+  border-radius: 10px;
+  width: 300px;
+  height: 180px;
+}
+
+.fruitt {
+  position: absolute;
+  left: 1156px;
+  top: 275px;
+  border-radius: 10px;
+  width: 300px;
+  height: 180px;
+}
+
+.ghee {
+  position: absolute;
+  left: 116px;
+  top: 584px;
+  border-radius: 10px;
+  width: 300px;
+  height: 180px;
+}
+
+.coconutt {
+  position: absolute;
+  left: 647px;
+  top: 584px;
+  border-radius: 10px;
+  width: 300px;
+  height: 180px;
+}
+
+.dhoop {
+  position: absolute;
+  left: 1156px;
+  top: 584px;
+  border-radius: 10px;
+  width: 300px;
+  height: 180px;
+}
+.camphorr {
+  position: absolute;
+  left: 116px;
+  top: 900px;
+  border-radius: 10px;
+  width: 300px;
+  height: 180px;
+}
+
+.tulsi {
+  position: absolute;
+  left: 647px;
+  top: 900px;
+  border-radius: 10px;
+  width: 300px;
+  height: 180px;
+}
+
+/*rakshabandhan*/
+
+.item_29 {
+  position: absolute;
+  left: 80px;
+  top: 190px;
+  font-size: 26px;
+  font-family: arial;
+  background-color: #ffebb8;
+  width: 240px;
+  height: 250px;
+  padding-left: 133px;
+  padding-top: 10px;
+  border-radius: 10px;
+}
+
+.item_30 {
+  position: absolute;
+  left: 610px;
+  top: 190px;
+  font-size: 26px;
+  font-family: arial;
+  background-color: #ffebb8;
+  width: 256px;
+  height: 250px;
+  padding-left: 117px;
+  padding-top: 10px;
+  border-radius: 10px;
+}
+
+.item_31 {
+  position: absolute;
+  left: 1120px;
+  top: 190px;
+  font-size: 26px;
+  font-family: arial;
+  background-color: #ffebb8;
+  width: 248px;
+  height: 250px;
+  padding-left: 120px;
+  padding-top: 10px;
+  border-radius: 10px;
+}
+
+.item_32 {
+  position: absolute;
+  left: 610px;
+  top: 500px;
+  font-size: 26px;
+  font-family: arial;
+  background-color: #ffebb8;
+  width: 255px;
+  height: 250px;
+  padding-left: 120px;
+  padding-top: 10px;
+  border-radius: 10px;
+}
+
+.item_33 {
+  position: absolute;
+  left: 80px;
+  top: 500px;
+  font-size: 26px;
+  font-family: arial;
+  background-color: #ffebb8;
+  width: 272px;
+  height: 250px;
+  padding-left: 102px;
+  padding-top: 10px;
+  border-radius: 10px;
+}
+
+.item_34 {
+  position: absolute;
+  left: 1120px;
+  top: 500px;
+  font-size: 26px;
+  font-family: arial;
+  background-color: #ffebb8;
+  width: 280px;
+  height: 250px;
+  padding-left: 90px;
+  padding-top: 10px;
+  border-radius: 10px;
+}
+.item_35 {
+  position: absolute;
+  left: 80px;
+  top: 815px;
+  font-size: 26px;
+  font-family: arial;
+  background-color: #ffebb8;
+  width: 233px;
+  height: 250px;
+  padding-left: 142px;
+  padding-top: 10px;
+  border-radius: 10px;
+}
+
+.item_36 {
+  position: absolute;
+  left: 610px;
+  top: 815px;
+  font-size: 26px;
+  font-family: arial;
+  background-color: #ffebb8;
+  width: 233px;
+  height: 250px;
+  padding-left: 143px;
+  padding-top: 10px;
+  border-radius: 10px;
+}
+
+.rakhi {
+  position: absolute;
+  left: 116px;
+  top: 275px;
+  border-radius: 10px;
+  width: 300px;
+  height: 180px;
+}
+
+.kunku {
+  position: absolute;
+  left: 647px;
+  top: 275px;
+  border-radius: 10px;
+  width: 300px;
+  height: 180px;
+}
+
+.riceee {
+  position: absolute;
+  left: 1156px;
+  top: 275px;
+  border-radius: 10px;
+  width: 300px;
+  height: 180px;
+}
+
+.sweetts {
+  position: absolute;
+  left: 116px;
+  top: 584px;
+  border-radius: 10px;
+  width: 300px;
+  height: 180px;
+}
+
+.coconuttt {
+  position: absolute;
+  left: 647px;
+  top: 584px;
+  border-radius: 10px;
+  width: 300px;
+  height: 180px;
+}
+
+.handker {
+  position: absolute;
+  left: 1156px;
+  top: 584px;
+  border-radius: 10px;
+  width: 300px;
+  height: 180px;
+}
+.gift {
+  position: absolute;
+  left: 116px;
+  top: 900px;
+  border-radius: 10px;
+  width: 300px;
+  height: 180px;
+}
+
+.diya {
+  position: absolute;
+  left: 647px;
+  top: 900px;
+  border-radius: 10px;
+  width: 305px;
+  height: 180px;
+}
+
+/*karva chauth*/
+
+.item_37 {
+  position: absolute;
+  left: 80px;
+  top: 190px;
+  font-size: 26px;
+  font-family: arial;
+  background-color: #ffebb8;
+  width: 230px;
+  height: 250px;
+  padding-left: 143px;
+  padding-top: 10px;
+  border-radius: 10px;
+}
+
+.item_38 {
+  position: absolute;
+  left: 610px;
+  top: 190px;
+  font-size: 26px;
+  font-family: arial;
+  background-color: #ffebb8;
+  width: 246px;
+  height: 250px;
+  padding-left: 128px;
+  padding-top: 10px;
+  border-radius: 10px;
+}
+
+.item_39 {
+  position: absolute;
+  left: 1120px;
+  top: 190px;
+  font-size: 26px;
+  font-family: arial;
+  background-color: #ffebb8;
+  width: 218px;
+  height: 250px;
+  padding-left: 150px;
+  padding-top: 10px;
+  border-radius: 10px;
+}
+
+.item_40 {
+  position: absolute;
+  left: 610px;
+  top: 500px;
+  font-size: 26px;
+  font-family: arial;
+  background-color: #ffebb8;
+  width: 255px;
+  height: 250px;
+  padding-left: 120px;
+  padding-top: 10px;
+  border-radius: 10px;
+}
+
+.item_41 {
+  position: absolute;
+  left: 80px;
+  top: 500px;
+  font-size: 26px;
+  font-family: arial;
+  background-color: #ffebb8;
+  width: 262px;
+  height: 250px;
+  padding-left: 112px;
+  padding-top: 10px;
+  border-radius: 10px;
+}
+
+.item_42 {
+  position: absolute;
+  left: 1120px;
+  top: 500px;
+  font-size: 26px;
+  font-family: arial;
+  background-color: #ffebb8;
+  width: 240px;
+  height: 250px;
+  padding-left: 130px;
+  padding-top: 10px;
+  border-radius: 10px;
+}
+
+.diyaaaa {
+  position: absolute;
+  left: 116px;
+  top: 275px;
+  border-radius: 10px;
+  width: 300px;
+  height: 180px;
+}
+
+.strainer {
+  position: absolute;
+  left: 647px;
+  top: 275px;
+  border-radius: 10px;
+  width: 300px;
+  height: 180px;
+}
+
+.pot {
+  position: absolute;
+  left: 1156px;
+  top: 275px;
+  border-radius: 10px;
+  width: 300px;
+  height: 180px;
+}
+
+.plate {
+  position: absolute;
+  left: 116px;
+  top: 584px;
+  border-radius: 10px;
+  width: 300px;
+  height: 180px;
+}
+
+.kunnku {
+  position: absolute;
+  left: 647px;
+  top: 584px;
+  border-radius: 10px;
+  width: 300px;
+  height: 180px;
+}
+
+.sweetttt {
+  position: absolute;
+  left: 1156px;
+  top: 584px;
+  border-radius: 10px;
+  width: 300px;
+  height: 180px;
+}
+
+/*diwali*/
+
+.item_43 {
+  position: absolute;
+  left: 80px;
+  top: 190px;
+  font-size: 26px;
+  font-family: arial;
+  background-color: #ffebb8;
+  width: 250px;
+  height: 250px;
+  padding-left: 123px;
+  padding-top: 10px;
+  border-radius: 10px;
+}
+
+.item_44 {
+  position: absolute;
+  left: 610px;
+  top: 190px;
+  font-size: 26px;
+  font-family: arial;
+  background-color: #ffebb8;
+  width: 256px;
+  height: 250px;
+  padding-left: 118px;
+  padding-top: 10px;
+  border-radius: 10px;
+}
+
+.item_45 {
+  position: absolute;
+  left: 1120px;
+  top: 190px;
+  font-size: 26px;
+  font-family: arial;
+  background-color: #ffebb8;
+  width: 248px;
+  height: 250px;
+  padding-left: 120px;
+  padding-top: 10px;
+  border-radius: 10px;
+}
+
+.item_46 {
+  position: absolute;
+  left: 610px;
+  top: 500px;
+  font-size: 26px;
+  font-family: arial;
+  background-color: #ffebb8;
+  width: 245px;
+  height: 250px;
+  padding-left: 130px;
+  padding-top: 10px;
+  border-radius: 10px;
+}
+
+.item_47 {
+  position: absolute;
+  left: 80px;
+  top: 500px;
+  font-size: 26px;
+  font-family: arial;
+  background-color: #ffebb8;
+  width: 297px;
+  height: 250px;
+  padding-left: 78px;
+  padding-top: 10px;
+  border-radius: 10px;
+}
+
+.item_48 {
+  position: absolute;
+  left: 1120px;
+  top: 500px;
+  font-size: 26px;
+  font-family: arial;
+  background-color: #ffebb8;
+  width: 250px;
+  height: 250px;
+  padding-left: 120px;
+  padding-top: 10px;
+  border-radius: 10px;
+}
+.item_49 {
+  position: absolute;
+  left: 80px;
+  top: 815px;
+  font-size: 26px;
+  font-family: arial;
+  background-color: #ffebb8;
+  width: 248px;
+  height: 250px;
+  padding-left: 128px;
+  padding-top: 10px;
+  border-radius: 10px;
+}
+
+.item_50 {
+  position: absolute;
+  left: 610px;
+  top: 815px;
+  font-size: 26px;
+  font-family: arial;
+  background-color: #ffebb8;
+  width: 258px;
+  height: 250px;
+  padding-left: 118px;
+  padding-top: 10px;
+  border-radius: 10px;
+}
+
+.item_51 {
+  position: absolute;
+  left: 1120px;
+  top: 815px;
+  font-size: 26px;
+  font-family: arial;
+  background-color: #ffebb8;
+  width: 308px;
+  height: 250px;
+  padding-left: 68px;
+  padding-top: 10px;
+  border-radius: 10px;
+}
+
+.diyaaaaa {
+  position: absolute;
+  left: 116px;
+  top: 275px;
+  border-radius: 10px;
+  width: 300px;
+  height: 180px;
+}
+
+.rrice {
+  position: absolute;
+  left: 647px;
+  top: 275px;
+  border-radius: 10px;
+  width: 300px;
+  height: 180px;
+}
+
+.kkunku {
+  position: absolute;
+  left: 1156px;
+  top: 275px;
+  border-radius: 10px;
+  width: 300px;
+  height: 180px;
+}
+
+.ssandal {
+  position: absolute;
+  left: 116px;
+  top: 584px;
+  border-radius: 10px;
+  width: 300px;
+  height: 180px;
+}
+
+.camp {
+  position: absolute;
+  left: 647px;
+  top: 584px;
+  border-radius: 10px;
+  width: 300px;
+  height: 180px;
+}
+
+.sweettttt {
+  position: absolute;
+  left: 1156px;
+  top: 584px;
+  border-radius: 10px;
+  width: 300px;
+  height: 180px;
+}
+.fru {
+  position: absolute;
+  left: 116px;
+  top: 900px;
+  border-radius: 10px;
+  width: 300px;
+  height: 180px;
+}
+
+.gh {
+  position: absolute;
+  left: 647px;
+  top: 900px;
+  border-radius: 10px;
+  width: 300px;
+  height: 180px;
+}
+
+.mow {
+  position: absolute;
+  left: 1156px;
+  top: 900px;
+  border-radius: 10px;
+  width: 300px;
+  height: 180px;
+}
